@@ -1,0 +1,98 @@
+[
+    {
+      "isbn": "978-0143126560",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "price": 9.99,
+      "reviews": [
+        {
+          "user": "JohnDoe",
+          "rating": 5,
+          "comment": "A life-changing book with deep meaning."
+        },
+        {
+          "user": "JaneSmith",
+          "rating": 4,
+          "comment": "Inspirational, but a bit overhyped."
+        }
+      ]
+    },
+    {
+      "isbn": "978-0062315007",
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "genre": "Self-Help",
+      "price": 14.99,
+      "reviews": [
+        {
+          "user": "BookLover99",
+          "rating": 5,
+          "comment": "Practical and straightforward advice."
+        },
+        {
+          "user": "MindsetGuru",
+          "rating": 3,
+          "comment": "Good points, but repetitive at times."
+        }
+      ]
+    },
+    {
+      "isbn": "978-0451524935",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "price": 12.99,
+      "reviews": [
+        {
+          "user": "HistoryBuff",
+          "rating": 5,
+          "comment": "A chilling and thought-provoking novel."
+        },
+        {
+          "user": "SciFiFan",
+          "rating": 4,
+          "comment": "A bit slow, but a must-read."
+        }
+      ]
+    },
+    {
+      "isbn": "978-0307474278",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Post-Apocalyptic",
+      "price": 10.99,
+      "reviews": [
+        {
+          "user": "DystopiaFan",
+          "rating": 5,
+          "comment": "Dark and hauntingly beautiful."
+        },
+        {
+          "user": "CasualReader",
+          "rating": 4,
+          "comment": "Emotional but very slow-paced."
+        }
+      ]
+    },
+    {
+      "isbn": "978-1408855652",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "price": 8.99,
+      "reviews": [
+        {
+          "user": "WizardFan",
+          "rating": 5,
+          "comment": "A magical start to an amazing series!"
+        },
+        {
+          "user": "CasualReader",
+          "rating": 4,
+          "comment": "Great for kids and adults alike."
+        }
+      ]
+    }
+  ]
+  
